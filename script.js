@@ -19,9 +19,7 @@ const scenes = {
         title: "A Quiet Room",
         character: "Main Character",
         image: "images/1.png",
-
         text: "The clock reads 6:07 and does not change. Your laptop is glowing, but the easel is empty.\n\n\"The painting was here. Why can't I remember what happened to it?\"",
-
         choices: [
             {
                 text: "Check the computer",
